@@ -6,7 +6,7 @@ oldgreeting.greet()
 
 function basicHaiku()
 {
-    return ["On a day in spring."]
+    return ["On a day in spring.."]
 }
 //zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
 
