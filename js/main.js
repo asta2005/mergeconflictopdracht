@@ -6,7 +6,11 @@ oldgreeting.greet()
 
 function basicHaiku()
 {
+<<<<<<< HEAD
     return ["We saw a hawk descending."]
+=======
+    return ["On a day in spring."]
+>>>>>>> feature
 }
 ["Toward those short trees","We saw a hawk descending","On a day in spring."]
 
