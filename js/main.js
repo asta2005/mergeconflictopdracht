@@ -10,6 +10,7 @@ function HaikuX(){
     console.log("REGEL1");
     console.log("REGEL2");
     console.log("REGEL3");
+    console.log("Student2");
 }
 
 
