@@ -1,18 +1,14 @@
 const oldgreeting = require("./oldgreeting.js");
-console.log("merge oefening leuk!")
+console.log("merge oefening, leuk!")
 
 oldgreeting.greet()
-
+ 
 
 function basicHaiku()
-{
-<<<<<<< HEAD
+{console.log (student1)
     return ["We saw a hawk descending."]
-=======
-    return ["On a day in spring."]
->>>>>>> feature
 }
-["Toward those short trees","We saw a hawk descending","On a day in spring."]
+
 
 haikus = [
     basicHaiku()
