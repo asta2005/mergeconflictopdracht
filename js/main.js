@@ -6,9 +6,9 @@ oldgreeting.greet()
 
 function basicHaiku()
 {
-    return ["Toward those short trees","We saw a batman descending","On a day in spring."]
+    return ["We saw a hawk descending."]
 }
-//zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
+["Toward those short trees","We saw a hawk descending","On a day in spring."]
 
 haikus = [
     basicHaiku()
@@ -24,7 +24,7 @@ function randomHaiku()
 function start()
 {
     console.log("starting main")
-    
+
     console.log(randomHaiku())
 
 }
